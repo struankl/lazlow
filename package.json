@@ -1,0 +1,31 @@
+{
+  "name": "lazlow",
+  "version": "0.0.1",
+  "description": "The lazy and slow proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/struankl/lazlow.git"
+  },
+  "keywords": [
+    "lazlow",
+    "proxy"
+  ],
+  "author": "Struan Kerr-Liddell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/struankl/lazlow/issues"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "body-parser": "~1.15.0",
+    "express": "~4.13.4",
+    "mitm-server": "^1.2.0",
+    "request": "~2.69.0",
+    "winston": "~2.1.1",
+    "yargs": "~4.1.0"
+  }
+}
