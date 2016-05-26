@@ -23,7 +23,7 @@
     "bluebird": "^3.3.4",
     "body-parser": "~1.15.0",
     "express": "~4.13.4",
-    "mitm-server": "^1.2.0",
+    "http-mitm-proxy": "^0.5.0",
     "request": "~2.69.0",
     "winston": "~2.1.1",
     "yargs": "~4.1.0"
